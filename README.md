@@ -1,0 +1,2 @@
+# esfuerzo_columna
+pendienteesfuerzo_columna
